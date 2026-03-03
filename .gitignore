@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 venv/
 __pycache__/
 *.pt
+=======
+venv/
+__pycache__/
+*.pt
+>>>>>>> 4d1fa044a264ec74d88cd6d565f336614eb79584
 .DS_Store
