@@ -118,5 +118,4 @@ if img_file:
                 break
 
     if not found:
-        4d1fa044a264ec74d88cd6d565f336614eb79584
         st.warning("Object recognized, but disposal rules aren't set for this yet. Try a bottle or phone!")
